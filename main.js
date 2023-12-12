@@ -24,3 +24,6 @@
 
 // 8 => test
 // Bu kod test branchida ko`rinadi
+
+// 9 => yangi branch ochib o`sha branchga o`tish
+// git branch -m branchName
