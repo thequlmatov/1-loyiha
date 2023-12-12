@@ -27,3 +27,6 @@
 
 // 9 => yangi branch ochib o`sha branchga o`tish
 // git branch -m branchName
+
+//10=> branchdagi kodlarni olib kelish
+// git merge branchName
