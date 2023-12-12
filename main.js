@@ -15,4 +15,12 @@
 // 5 => Comment
 // git commit -m "xabar"
 
+// BU yerda githubga loyiha yuklanadi
 // 6 => git push origin master
+
+// 7 => branch
+// git branch branchName => yangi branch qo`shish
+// git checkout branchName
+
+// 8 => test
+// Bu kod test branchida ko`rinadi
